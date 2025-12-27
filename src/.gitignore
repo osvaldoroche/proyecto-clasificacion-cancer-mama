@@ -1,0 +1,23 @@
+
+# Datos procesados
+data/processed
+
+# Modelos entrenados
+*.pkl
+
+# Archivos temporales
+.ipynb_checkpoints/
+.vscode
+
+# Entornos
+.venv/
+venv/
+
+# archivos temporales
+__pycache__/
+
+
+
+
+
+
